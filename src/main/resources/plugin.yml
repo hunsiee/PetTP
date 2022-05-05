@@ -1,0 +1,4 @@
+name: Pettp
+version: '${project.version}'
+main: xyz.hunslet.Main
+api-version: 1.18
